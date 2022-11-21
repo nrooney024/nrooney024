@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nick Rooney</h1>
 <h3 align="center">A passionate full stack web developer from NYC. 🗽</h3>
 
-- 🤝 I’m looking for help with [Git Connected](https://github.com/wil-gerard/git-connected)
-
 - 👨‍💻 All of my projects are available at [nickrooney.me](nickrooney.me)
 
-- 💬 Ask me about **anything (but I really enjoy web scraping in particular)!**
+- 💬 Ask me about **anything (but I really enjoy web development and web scraping in particular)!**
 
 - ✉️ How to reach me **nrooney024@gmail.com or nrooney024#3012 on Discord**
 
