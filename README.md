@@ -5,9 +5,7 @@
 
 - 💬 Ask me about **anything (but I really enjoy web development and web scraping in particular)!**
 
-- ✉️ How to reach me **nrooney024@gmail.com or nrooney024#3012 on Discord**
-
-- ⚡ Fun fact **I've been trying to get used to working from my Oculus, because I think it's the future of remote working!**
+- ✉️ How to reach me **nrooney024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
